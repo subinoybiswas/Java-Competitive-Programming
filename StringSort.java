@@ -10,8 +10,9 @@ public class StringSort {
         System.out.println("String in lowercase: " + n);
         for(char i = 'a' ; i <= 'z' ; i++) {
             for(int j = 0 ; j < n.length() ; j++) {
-                if(n.charAt(j) == i) {
-                    y += n.charAt(j);
+                char letter = n.charAt(j);
+                if(letter == i) {
+                    y += letter;
                 }
             }
         }
