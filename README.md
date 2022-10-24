@@ -8,6 +8,8 @@ A repository meant to encourage Open Source contributions, practice Competitive 
 
 Please read the [CONTRIBUTING.md](https://github.com/aarushi09/Java-Competitive-Programming/blob/main/CONTRIBUTING.md) file before contributing your codes and resolving issues. Check out the [issues](https://github.com/aarushi09/Java-Competitive-Programming/issues) page in order to look and work on issues that are currently open. Plagiarism is unacceptable, your code would be passed through plagiarism testers and if I find that you've copied the code you contribute from somewhere on the internet, your PR would be immediately closed and disqualified from hacktoberfest.
 
+> Every issue on this repository is open to all, and would be closed on a first serve basis, therefore if you're interested in contributing please make a PR before anyone else does.
+
 ### Resources
 
 Here are some resources that I'd like to suggest in order to help you to contribute to this and other projects present all around the web.
